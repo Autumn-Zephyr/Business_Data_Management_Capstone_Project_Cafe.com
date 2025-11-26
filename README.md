@@ -1,3 +1,5 @@
+This project was created to fulfill the requirements for the *BDM Project* of the *BS in Data Science and Application* degree program from *Indian Institute of Technology, Madras (IIT Madras)*.
+
 ![c2a293a1-8dd8-4b87-9b94-db53aec8288e-0](https://github.com/user-attachments/assets/09a48be1-47f7-4e3a-81a6-fe3fd416a5af)
 ![c2a293a1-8dd8-4b87-9b94-db53aec8288e-1](https://github.com/user-attachments/assets/2dcfc93f-1024-47dd-b267-67fbc1360f08)
 ![c2a293a1-8dd8-4b87-9b94-db53aec8288e-2](https://github.com/user-attachments/assets/8f58c311-2053-4c01-93c9-83ee53559ef8)
